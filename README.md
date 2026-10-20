@@ -17,3 +17,4 @@ This repository is part of my midterm activity for practicing Git and GitHub, in
 ## Author
 
 Angelito Biandilla -angelito775
+BSIT WMT 4-2
