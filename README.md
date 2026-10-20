@@ -13,6 +13,7 @@ This repository contains Python source code and supporting files developed durin
 ## Purpose
 
 This repository is part of my midterm activity for practicing Git and GitHub, including version control, commits, branching, merging, cloning, and synchronization.
+Each lesson folder keeps its assignment source code together with any related input or report files.
 
 ## Author
 
